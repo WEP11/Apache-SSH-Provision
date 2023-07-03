@@ -1,0 +1,4 @@
+public/hosts/*.pub
+public/users/*.pub
+*.ini
+data/*
